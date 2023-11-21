@@ -1040,7 +1040,29 @@ padding: 0 !important;
   justify-content: space-between;
   padding: 20px 22px;
 }
-
+.card-test {
+ max-height: 100%;
+}
+.owl-item .left img {
+  width: 100%;
+  max-width: 100%;
+  min-width: 100%;
+  border-radius: 1pc ;
+  height: 250px
+}
+.modal-dialog {
+  max-width: 100%;
+}
+.modal .text-details {
+  padding: 10px !important;
+}
+.modal-content img {
+  border-radius: 1pc;
+}
+.card-test {
+  gap: 1rem;
+  flex-direction: column;
+}
     }
   
   
